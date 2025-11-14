@@ -445,5 +445,5 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Result :
-THE implementation of configuring analog port to interface an analog sensor and read the values using serial port utility is successfull.
+The implementation of configuring analog port to interface an analog sensor and read the values using serial port utility is successfull.
 ****
